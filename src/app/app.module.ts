@@ -54,7 +54,7 @@ import { DataTableModule } from 'angular5-data-table';
     NgbModule.forRoot(),
     RouterModule.forRoot([
       // Basic view routes
-      {path: '', component: HomeComponent},
+      {path: '', component: ProductsComponent},
       {path: 'product', component: ProductsComponent},
       {path: 'shopping-cart', component: ShoppingCartComponent},
       {path: 'login', component: LoginComponent},
