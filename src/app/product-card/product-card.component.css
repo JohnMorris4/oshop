@@ -6,4 +6,9 @@
 
 .card-footer {
     padding: 0;
+
+}
+
+.card-footer button div {
+  cursor: pointer;
 }
