@@ -1,3 +1,10 @@
 .dropdown-toggle{
   cursor: pointer;
 }
+.navbar-brand{
+  color: lightgreen;
+}
+.fa.fa-shopping-cart{
+  color: lightgreen;
+  padding-right: 8px;
+}

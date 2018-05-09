@@ -12,3 +12,10 @@
 .card-footer button div {
   cursor: pointer;
 }
+.card-img-top{
+    height: 300px;
+    width: 443px;
+}
+.card:last-child{
+    width: 445px;
+}
